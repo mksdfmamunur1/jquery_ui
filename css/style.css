@@ -1,0 +1,26 @@
+  ul { list-style-type: none; margin: 0; padding: 0; margin-bottom: 10px; }
+  li { margin: 5px; padding: 5px; width: 150px; }
+  #feedback { font-size: 1.4em; }
+  #selectable .ui-selecting { background: #FECA40; }
+  #selectable .ui-selected { background: #F39814; color: white; }
+  #selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+  #selectable li { margin: 5px; padding: 5px; width: 150px; font-size: 1.4em; }
+
+.ui-tabs-vertical { width: 55em; }
+  .ui-tabs-vertical .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+  .ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+  .ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+  .ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; }
+  .ui-tabs-vertical .ui-tabs-panel { padding: 1em; float: right; width: 40em;}
+
+
+    .toggler { width: 500px; min-height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+    .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; min-height: 120px; padding: 30px; margin: 10px; font-size: 1.1em; }
+
+    .toggler1 { width: 500px; min-height: 200px; position: relative; }
+    #button1 { padding: .5em 1em; text-decoration: none; }
+    #effect1 { width: 240px; min-height: 170px; padding: 0.4em; position: relative; background: #fff; }
+        #effect1 h3 { margin: 0; padding: 0.4em; text-align: center; }
+    .ui-effects-transfer1 { border: 2px dotted gray; }
